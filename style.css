@@ -1,0 +1,28 @@
+#mainContainer {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#topContainer {
+    border: solid 2px black;
+    padding: 20px;
+    padding-left: 280px;
+    margin: 0 auto;
+}
+
+#topContainer h2 {
+    padding-left: 45px;
+}
+
+#topContainer table {
+    text-align: left;
+    padding: 10px;
+}
+
+header, footer {
+    border: solid 1px black;
+}
+
+nav {
+ 
+}
